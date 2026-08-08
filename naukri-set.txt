@@ -1,0 +1,100 @@
+Trapping Rain Water
+Reverse the String
+Two Sum
+Maximum Subarray Sum
+Pair Sum
+Valid Parentheses
+Anagram Pairs
+Merge Sort
+Find Number Of Islands
+Maximum Subarray Sum
+Reverse Words In A String
+Search In Rotated Sorted Array
+Longest Increasing Subsequence
+Next Greater Element
+Sort 0 1 2
+Check If The String Is A Palindrome
+3Sum
+Ways To Make Coin Change
+Balanced parentheses
+Best Time to Buy and Sell Stock
+N Queens
+LRU Cache Implementation
+Level Order Traversal
+Find prime numbers
+Day 8 : Second largest element in the array
+Longest Substring Without Repeating Characters
+Left View Of Binary Tree
+House Robber
+Merge Two Sorted Arrays
+Rat In A Maze
+Longest Common Subsequence
+Rotting Oranges
+Wildcard Pattern Matching
+Count Ways To Reach The N-th Stairs
+N-th Fibonacci Number
+First Missing Positive
+Rotate array
+Stack using queue
+Delete Kth Node From End
+Sort An Array of 0s, 1s and 2s
+0 1 Knapsack 
+Bubble Sort
+DFS Traversal
+Right View
+Subarray With Given Sum
+Find Duplicates In Array
+Maximum In Sliding Windows Of Size K
+Quick Sort
+Longest Palindromic Substring
+Nth Fibonacci Number
+Nth Fibonacci Number
+Reverse Stack Using Recursion
+Longest Substring Without Repeating Characters
+Chocolate Problem
+First non repeating character
+0 1 Knapsack
+Sort Array
+Search In A Row Wise And Column Wise Sorted Matrix
+Add Two Numbers
+Merge Intervals
+Minimum Jumps
+Longest Common Subsequence
+Minimum Number of Platforms
+Remove Duplicates
+Remove Duplicates from Sorted Array
+LCA Of Binary Tree
+Missing Number
+Minimum Cost Path
+Longest Consecutive Sequence
+Maximum Product Subarray
+Covid Vaccination
+Implementation: HashMap
+Kth largest element in the unsorted array
+Count Inversions
+Median of two sorted arrays
+Product Of Array Except Self
+Snake and Ladder
+Diameter Of Binary Tree
+Reverse List In K Groups
+Group Anagrams
+Find All Triplets With Zero Sum
+Dijkstra's shortest path
+Unique Paths
+Detect and Remove Loop
+Reverse String
+Minimum Number of Platform Needed
+Day 10 : Minimum Operations
+Next Greater Element
+Factorial of a Number
+Group Anagrams Together
+String Palindrome
+Delete Node In A Linked List
+Palindrome Linked List
+Delete a Node from Linked List
+Reverse Linked List
+Merge Two Sorted Linked Lists
+Middle Of Linked List
+Intersection of Two Linked Lists
+Reverse Linked List
+Cycle Detection in a Singly Linked List
