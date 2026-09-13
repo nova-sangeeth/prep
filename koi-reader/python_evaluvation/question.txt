@@ -1,0 +1,56 @@
+Folder Structure 
+
+Zip the code in the following folder structure and send: 
+
+python_evaluation/ 
+├── generate_images.py 
+├── batch_processing.py 
+├── inputs/ 
+├── outputs/ 
+└── requirements.txt 
+└── recommendation.txt 
+
+
+
+
+Assignment Tasks 
+
+1. Create a python script that can generate & write 500 dummy JPEG images of size 1024x1024 inside inputs/ directory. 
+
+2. Write an optimized batch processing Python script that resizes images from inputs/ to 640x640 and saves them inside outputs/ directory. 
+
+Use concurrent.futures, ThreadPoolExecutor, ProcessPoolExecutor, multiprocessing for batch processing. 
+
+Generate a CSV report and log it to compare the speed of all approaches for batch size of 100 and 500 images. 
+
+
+CSV should have the following columns: 
+
+Number of Images 
+
+Batching Method 
+
+Workers 
+
+Time Taken 
+
+CPU usage 
+
+Memory Usage 
+
+Metrics Definitions and Units 
+
+Time Taken with millisecond precision in ss.ms format. Eg: 23.234 seconds 
+
+CPU usage in percentage (percent of one core). Eg: 225% 
+
+Memory Usage in MB 
+
+ 
+recommendation.txt format: 
+
+Please suggest your recommendation in the following format: 
+
+Recommended Approach: ProcessPoolExecutor 
+ 
+Reason: Less CPU usage, maintainability etc... 
