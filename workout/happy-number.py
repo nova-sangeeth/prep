@@ -20,11 +20,8 @@ def is_happy_num(value: int) -> bool:
         for num in happy_num:
             digit = int(num)
             sum += digit**2
-            print(sum)
-
         if sum == 1:
             return True
-
         happy_num = str(sum)
     return False
 

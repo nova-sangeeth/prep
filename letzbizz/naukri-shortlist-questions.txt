@@ -1,0 +1,70 @@
+1. Design a scalable multiagent orchestration for 10k concurrent requests.
+
+    The system must rely on an event driven decoupled and stateless orchestration layer by a distributed virtual actor framework or message queue
+
+2. How do you debug state transitions across distributed AI agents ? 
+    Unified telemetry
+    State snapshotting, deterministic replay
+    State locks, concurrency
+    Inline evaluator guardrails.- Validation agents, Workspace isolation
+
+3. How do you secure tool execution in autonomous ai agents ?
+    Execution isolation
+    Interception layers and Policy as Code.
+    Ephemeral identity and least privilege
+    continuous monitoring.
+
+4. How would you detect and recover from agent hallucinations ?
+    An AI agent can evaluate its own outputs before they reach the user.
+    Require active loop of real time verification
+    Critique correction loops
+    Dynamic temperature Scaling
+    Confidence triggers - Escalation and De-escalation triggers.
+
+5. How do i react and reflect improve autonomous agent decisions ?
+    Reason and active
+        Dynamic step adjustments 
+            * Instead of blindly following pre-defined rigid plan the agent evaluates the result of its last action before
+                deciding what to do.
+            * Check tool outputs and update its internal state the agenst prevents errors and handles 
+                unexpected external changes mid-task
+
+    Reflection:
+        Error and hallucinations.
+        Verbal Reinforcement Learning.
+        Long-Term Strategy Refinement.
+
+6. How would you implement long-term memory in an agentic ai system?
+    Separate Persistence
+    Use a database to store the pre and post request context and content
+    Mostly use Vector DBs and RDBMS
+
+7. What does MCP mean? what is the difference between REST and MCP?
+
+MCP - Probabilistic
+REST - deterministic
+
+Integration - MCP: Dynamic discovery  | REST: Hardcoded endpoints at design time
+Communication - Bidirectional stateful context | REST: Stateless request-response cycles
+Strengths - Exposing ai systems | REST: high throughput, data heavy, batch processing.
+
+8. How do you optimize rag latency without reducing retrieval accuracy?
+    Eliminate redundant computations, 
+    optimize search indexing and strip out unnecessary context before it raeches the LLM.
+    Implement Cache
+    Vector db and index tuning
+    Prefilter and index metadata
+    Intelligent rag caching
+    LLM context caching
+    Context compression.
+
+9. How do you prevent dead locks in a langgraph multiagent workflow.
+    Enforce hard recursion limits
+    Define fallbacks and human in the loop interrupts
+    enforce limits on failed reequests to tools.
+    
+10. How do you update the documents in a vector DB.
+    The Delete-and-Recreate Strategy
+    The Upsert Strategy
+    The Document Hashing Strategy
+    

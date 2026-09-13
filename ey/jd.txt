@@ -1,0 +1,42 @@
+We are the only professional services organization who has a separate business dedicated exclusively to the financial services marketplace. Join Digital Engineering Team and you will work with multi-disciplinary teams from around the world to deliver a global perspective. Aligned to key industry groups including Asset management, Banking and Capital Markets, Insurance and Private Equity, Health, Government, Power and Utilities, we provide integrated advisory, assurance, tax, and transaction services. Through diverse experiences, world-class learning and individually tailored coaching you will experience ongoing professional development. That’s how we develop outstanding leaders who team to deliver on our promises to all of our stakeholders, and in so doing, play a critical role in building a better working world for our people, for our clients and for our communities. Sound interesting? Well, this is just the beginning. Because whenever you join, however long you stay, the exceptional EY experience lasts a lifetime.
+
+We are seeking an Integration platform Engineer with 4- 8 years of experience to design, develop, and maintain enterprise integration solutions that connect cloud platforms, SaaS applications, and on-premise systems. The role focuses on building scalable, secure, and reliable APIs, event-driven pipelines, and middleware components, while also establishing robust CI/CD pipelines and cloud infrastructure to enable seamless data flow and process automation across the organization
+
+EY Digital Engineering is a unique, industry-focused business unit that provides a broad range of integrated services that leverage deep industry experience with strong functional capability and product knowledge. The Digital Engineering practice works with clients to analyse, formulate, design, mobilize and drive digital transformation initiatives. We advise clients on their most pressing digital challenges and opportunities surround business strategy, customer, growth, profit optimization, innovation, technology strategy, and digital transformation.  We also have a unique ability to help our clients translate strategy into actionable technical design, and transformation planning/mobilization.  Through our unique combination of competencies and solutions, EY’s DE team helps our clients sustain competitive advantage and profitability by developing strategies to stay ahead of the rapid pace of change and disruption and supporting the execution of complex transformations
+
+ 
+
+Your key responsibilities
+
+Design and implement integration solutions using REST/SOAP APIs, message queues, and event-driven architectures.
+Develop and maintain microservices, connectors, and adapters for SaaS, ERP, CRM, and legacy systems.
+Build and manage API gateways, including authentication, throttling, versioning, and monitoring.
+Implement Batch Jobs using event streaming and asynchronous messaging using Kafka, Service Bus, Event Grid, or RabbitMQ.
+Design, build, and maintain CI/CD pipelines for integration components using GitHub Actions, Azure DevOps, or Jenkins, including automated testing, security scanning, and release management.
+Provision and manage cloud infrastructure using Infrastructure-as-Code (Terraform, Bicep, ARM, or CloudFormation) to support integration workloads.
+Containerize and deploy integration services on Kubernetes (AKS/EKS/GKE) with Helm charts and GitOps workflows (ArgoCD/Flux).
+Ensure integrations meet security, performance, observability, and compliance standards.
+Troubleshoot, optimize, and document integration flows, contracts, deployment pipelines, and operational runbooks.
+ 
+
+Skills and attributes for success
+
+Required Skills
+
+API Development and Integration (REST, SOAP, GraphQL, OpenAPI/Swagger)
+Programming in Python, Java, .NET, or Node.js
+Cloud – Azure or AWS
+CI/CD Pipeline Setup and Automation (GitHub Actions, Azure DevOps, Jenkins, GitLab CI)
+Infrastructure-as-Code (Terraform, Bicep, ARM, or CloudFormation)
+Messaging and Event Streaming (Kafka, Azure Service Bus, Event Grid, RabbitMQ)
+Microservices and Containers (Docker, Kubernetes, Helm)
+ 
+
+Good To Have
+
+AI Frameworks and Tooling
+Authentication and Security (OAuth2, OIDC, JWT, mTLS, API Keys)
+Integration Platforms (Azure Integration Services, MuleSoft, Boomi, or Apache Camel)
+iPaaS and Low-Code Integration (Logic Apps, Power Automate)
+API Management (APIM, Apigee, Kong)
+GitOps and Progressive Delivery (ArgoCD, Flux, Flagger)

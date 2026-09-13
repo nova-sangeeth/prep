@@ -1,0 +1,43 @@
+What is a topic in kafka
+
+A kafka topic is a named logical category or feed to store records and events.
+
+-------------------------------------------
+
+
+what is a partition in kafka
+A partition in kafka is a physical, ordered, immutable sequence of records.
+that breaks a topic into smaller independent logs spread across multiple servers.
+
+-------------------------------------------
+
+What is offset in kafka
+
+An offset is a unique sequential integer that is assigned to every message within a specific
+patition . it acts like an index in an array
+
+
+--------------------------------------------
+
+What is an consumer group
+
+A consumer group is a collection of individual consumer instances that work together
+to read and process messages from a topic.
+
+
+--------------------------------------------
+
+Can two consumers read from the same partition in Apache Kafka ?
+Yes, two consumers can read the same partition in Apache Kafka it depends on the group.id configuration.
+
+
+--------------------------------------------
+Does kafka guarantee message ordering
+
+Kafka does guarantee message ordering within a partition.
+
+it is achieved by immutable commit log which is append only and they 
+
+use consisten partition key.
+
+--------------------------------------------
